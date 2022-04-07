@@ -4,7 +4,7 @@ Academic presentation _(in French)_ on the numeric computation of the Fibonacci 
 
 **Main issue** : How to compute Fibonacci sequence in the most powerful way ?
 
-**Execution of sample/plotting script**
+**Execution of sample/plotting script** :
 ```bash
 python3 script.py
 ```
@@ -21,9 +21,7 @@ python3 script.py
     - General presentation of the used method
     - Choice of fast exponentiation method
     - Implementation for calculating quantities F_n
-
 - Conclusion & Answer to the problem
-
 - Appendix : Application of F_n &bull; Euclid's algorithm
 
 
