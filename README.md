@@ -2,12 +2,9 @@
 
 Academic presentation _(in French)_ on the numeric computation of the Fibonacci sequence
 
-**Main issue**
-<p align="center">
-    How to compute Fibonacci sequence in the most powerful way ?
-</p>
+**Main issue** : How to compute Fibonacci sequence in the most powerful way ?
 
-
+**Execution of sample/plotting script**
 ```bash
 python3 script.py
 ```
