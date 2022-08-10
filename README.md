@@ -8,10 +8,11 @@ $$\forall n \geq 2, \ F_{n+2} = F_{n+1} + F_n$$
 
 **Execution of sample/plotting script** :
 ```bash
+pip install matplotlib # unique Python dependency
 python3 script.py
 ```
 
-## Contents
+## Table of contents
 
 - Naive and iterative approaches
     - Recursion formula
@@ -22,9 +23,9 @@ python3 script.py
 - A last track : matrix writing
     - General presentation of the used method
     - Choice of fast exponentiation method
-    - Implementation for calculating quantities F_n
+    - Implementation for calculating quantities $F_n$
 - Conclusion & Answer to the problem
-- Appendix : Application of F_n &bull; Euclid's algorithm
+- Appendix : Application of $F_n$ &bull; Euclid's algorithm
 
 
 **Main reference** : Based on *Arnaud de Saint Julien*'s paper : *[Escapade algorithmique avec Fibonacci](http://desaintar.free.fr/exposes/fibonacci.pdf)*
