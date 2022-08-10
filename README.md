@@ -1,6 +1,8 @@
 # Fibonacci presentation
 
-Academic presentation _(in French)_ on the numeric computation of the Fibonacci sequence
+Academic presentation _(in French)_ on the numeric computation of the Fibonacci sequence $(F_n)_{n \in \mathbb{N}}$ defined as follows : $F_0 = 0$, $F_1 = 1$ and :
+
+$$\forall n \geq 2, \ F_{n+2} = F_{n+1} + F_n$$
 
 **Main issue** : How to compute Fibonacci sequence in the most powerful way ?
 
@@ -25,8 +27,8 @@ python3 script.py
 - Appendix : Application of F_n &bull; Euclid's algorithm
 
 
-**Main reference** : Based on *Arnaud de Saint Julien*'s paper : [Escapade algorithmique avec Fibonacci](http://desaintar.free.fr/exposes/fibonacci.pdf)
+**Main reference** : Based on *Arnaud de Saint Julien*'s paper : *[Escapade algorithmique avec Fibonacci](http://desaintar.free.fr/exposes/fibonacci.pdf)*
 
 ## Author
 
-- Lucas RODRIGUEZ (MPSI - 2018/2019)
+Lucas RODRIGUEZ (MPSI - 2018/2019)
